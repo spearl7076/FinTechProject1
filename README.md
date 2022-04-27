@@ -1,4 +1,6 @@
-![alt text](https://th.bing.com/th/id/R.1c60028b113db32a202e54b59a78f564?rik=bW4o7z4SESLG9g&riu=http%3a%2f%2fwww.pngmart.com%2ffiles%2f7%2fPortfolio-Transparent-Background.png&ehk=2ScYzRRQx7i%2bUOg0a33G%2buYnuduNJa4wG7ogLEmYsTI%3d&risl=&pid=ImgRaw&r=0 "Logo Title Text 1")
+![alt text](https://th.bing.com/th/id/R.57217bff893d6e5fcb9d6cb8f875cc3a?rik=lUXbMcdNeJj3pA&riu=http%3a%2f%2fwww.erpsoftwareblog.com%2fwp-content%2fuploads%2fERP-Implementation-Strategies-2.jpg&ehk=y%2b66QY2961HFUaIJUQDjnuGTPEs3fertIS03uB32fkY%3d&risl=&pid=ImgRaw&r=0 "Logo Title Text 1")
+
+
 
 # STOCKS BONDS & COMMODITIES
 
