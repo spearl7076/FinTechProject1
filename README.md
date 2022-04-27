@@ -1,8 +1,8 @@
-![alt text](https://iconape.com/wp-content/files/so/206968/png/206968.png "Logo Title Text 1")
+![alt text](https://th.bing.com/th/id/R.1c60028b113db32a202e54b59a78f564?rik=bW4o7z4SESLG9g&riu=http%3a%2f%2fwww.pngmart.com%2ffiles%2f7%2fPortfolio-Transparent-Background.png&ehk=2ScYzRRQx7i%2bUOg0a33G%2buYnuduNJa4wG7ogLEmYsTI%3d&risl=&pid=ImgRaw&r=0 "Logo Title Text 1")
 
-# FinTechProject1
+# STOCKS BONDS & COMMODITIES
 
- Lending
+ 
  
 ## Overview and Origin
 
