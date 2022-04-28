@@ -1,10 +1,9 @@
 ![alt text](https://th.bing.com/th/id/R.57217bff893d6e5fcb9d6cb8f875cc3a?rik=lUXbMcdNeJj3pA&riu=http%3a%2f%2fwww.erpsoftwareblog.com%2fwp-content%2fuploads%2fERP-Implementation-Strategies-2.jpg&ehk=y%2b66QY2961HFUaIJUQDjnuGTPEs3fertIS03uB32fkY%3d&risl=&pid=ImgRaw&r=0 "Logo Title Text 1")
 
 
-
+# Portfolio Analysis
 # STOCKS BONDS & COMMODITIES
 
- 
  
 ## Overview and Origin
 
@@ -32,7 +31,7 @@
 
 ## Landscape:
 
-* Credit Karma is in the financial industry
+* Historical closing prices of bonds stocks and commodities.
 
 * In the past 5 years Fintech personal loan originations increased more than 940% among the top 100 lenders.
 
@@ -41,11 +40,7 @@
 
 ## Results
 
-* Credit Karma has help members to take control of thier credit score.
-
-* It uses one of the most sophisticated analytics & softwares.
-
-* Credit Karma's competitors include NerdWallet, Credit Sesame, and Mint, which also offer free credit score information and financial tools. Credit Karma amassed annual revenues of over $1 billion for the year 2019. This represents a 100 percent increase from 2017 when the company generated around $500 million in unaudited revenue.
+* Constructing a portfolio of bonds, stocks, and commodities with over 5 year success
 
 ## Recommendations
 
@@ -57,6 +52,9 @@
 
 
 ## Written By: 
+Sam Pearlman, 
+Gokhan Unal &
+William Riera
 
 ## References
 
