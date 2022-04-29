@@ -27,7 +27,20 @@
 * Members looking for a free credit score & financial advice. Members can see free personalized offers and recommendations on their profiles to help them make their next financial move. Credit Karma is a consumer technology company with more than 100 million members in the United States, U.K. and Canada, including almost half of all U.S. millennials.
 
 * One of the key technology used, is the products and services using Google Cloud Platform (GCP). 
+<<<<<<< HEAD
 
+=======
+#
+## Portfolio Graphs
+
+# Gokhan_CRvsBenchmark
+![alt text](https://raw.githubusercontent.com/spearl7076/FinTechProject1/main/Visual%20Outlook/Gokhan_CRvsBenchmark.png "Logo Title Text 1")
+
+# Sam_CRvsBenchmark
+![alt text](https://raw.githubusercontent.com/spearl7076/FinTechProject1/main/Visual%20Outlook/Sam_CRvsBenchmark.png "Logo Title Text 1")
+
+# William_CRvsBenchmark
+![alt text](https://raw.githubusercontent.com/spearl7076/FinTechProject1/main/Visual%20Outlook/Will_CRvsBenchmark.png "Logo Title Text 1")
 
 ## Landscape:
 
