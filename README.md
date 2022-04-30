@@ -22,9 +22,9 @@
 
 ## Business Activities:
 
-* A portfolio analysis is fast growing in all households. Technology makes it easy to attract almost anyone of any age. With our software engineer we are always evolving our software for end user simplicity.
+* A portfolio analysis is a widely used product that is rapidly growing in popularity. Ease of technology benefits a wider range of ages. Therefore, our software engineers evolve our software continuously to ensure that it remains simple for users.
 
-* Anyone looking for an easy to use free portfolio analysis software. Companies captial comes from saling adverstiment spots to credit companies, banks, & brokers.
+* Our portfolio software is not only easy to use. This tool is also free to everyone thanks to the contributions of advertisers like as credit companies, banks, and brokers.
 
 #
 ## Portfolio Graphs
