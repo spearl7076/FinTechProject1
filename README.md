@@ -70,3 +70,7 @@ William Riera
 * Alpaca
 * Empyrial
 * World Bank Data
+#
+# Portfolio Analysis-Stocks Bonds & Commodities (Presentation)
+
+[Portfolio Analysis-Stocks Bonds & Commodities (Presentation) ](https://docs.google.com/presentation/d/1KTzLzoeLY8m086UdWELh1IMcnppalvEsPlqn6cx0du4/edit#slide=id.g1229cc3112c_4_32)
