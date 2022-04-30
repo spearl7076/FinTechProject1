@@ -24,7 +24,7 @@
 
 * A portfolio analysis is a widely used product that is rapidly growing in popularity. Ease of technology benefits a wider range of ages. Therefore, our software engineers evolve our software continuously to ensure that it remains simple for users.
 
-* Our portfolio software is not only easy to use. This tool is also free to everyone thanks to the contributions of advertisers like as credit companies, banks, and brokers.
+* Our portfolio software is not only easy to use. This tool is also free to everyone thanks to the contributions of advertisers like credit companies, banks, and brokers.
 
 #
 ## Portfolio Graphs
